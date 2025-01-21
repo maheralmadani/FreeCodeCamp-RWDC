@@ -26,7 +26,7 @@ This repository showcases my journey in learning web development through FreeCod
 
 5. **Quiz Task**  
    - A quiz from asking questions about html and css  
-   - Emphasizes table styling and accessibility.  
+   - A page with lots of fields and inputs + css styling
 
 ## 💡 Technologies Used
 
