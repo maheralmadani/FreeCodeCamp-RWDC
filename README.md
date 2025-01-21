@@ -22,6 +22,10 @@ This repository showcases my journey in learning web development through FreeCod
 
 4. **Nutrition Facts Task**  
    - A table showcasing nutrition facts in a clean and structured design.  
+   - Emphasizes table styling and accessibility.
+
+5. **Quiz Task**  
+   - A quiz from asking questions about html and css  
    - Emphasizes table styling and accessibility.  
 
 ## 💡 Technologies Used
